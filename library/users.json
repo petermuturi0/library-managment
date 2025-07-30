@@ -1,0 +1,10 @@
+[
+  {
+    "username": "user",
+    "hash": "$argon2id$v=19$m=65536,t=3,p=4$tExxgjvlKKjFAiv634DKSg$EuAPt0/AtBmQqtLofHh6cVLvdO6tUita/Vpd8gU/kr0"
+  },
+  {
+    "username": "adolf",
+    "hash": "$argon2id$v=19$m=65536,t=3,p=4$Gi+OQQW/ytpTllTPC/27uQ$l4M98FVxV4BTOn48Sb6RGbgb+XZwMcd0DvPzswnwKhg"
+  }
+]

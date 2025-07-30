@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1753873265826,
+    "title": "Big Book",
+    "author": "Big Author",
+    "isbn": "1234 5678",
+    "status": "Borrowed"
+  },
+  {
+    "id": 1753874643271,
+    "title": "Another Book",
+    "author": "Another Book Author",
+    "isbn": "Another Book ISBN",
+    "status": "Available"
+  }
+]
