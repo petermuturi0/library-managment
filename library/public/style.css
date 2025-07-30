@@ -1,0 +1,20 @@
+body {
+    background: #f5f7fa;
+}
+.card {
+    border-radius: 0.75rem;
+}
+#booksGrid {
+    margin-top: 1rem;
+}
+.book-card {
+    min-width: 240px;
+    max-width: 350px;
+    margin-bottom: 1rem;
+}
+.badge-status {
+    font-size: 0.9em;
+}
+.btn-action {
+    min-width: 90px;
+}
